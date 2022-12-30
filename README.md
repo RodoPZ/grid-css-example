@@ -1,4 +1,4 @@
 # grid-css-example
-Example responsive web page using CSS grid.
+Example of a responsive webpage using CSS grid.
 
 Live demo: https://rodopz.github.io/grid-css-example/
